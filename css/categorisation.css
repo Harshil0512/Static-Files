@@ -1,0 +1,13 @@
+.categorisationInputContainer{
+    overflow: hidden;
+}
+
+.categorisationChoiceForm{
+    transform: translateX(0%);
+    transition: 1s;
+}
+.categorisationFormSlide{
+    transform: translateX(-100%);
+    transition: 1s;
+    width: 100%;
+}

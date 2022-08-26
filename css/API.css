@@ -1,0 +1,21 @@
+.deleteAPI{
+  color: rgb(226, 0, 0);
+}
+
+.manageAPI{
+  color: rgb(0, 166, 232);
+}
+
+.deleteAPI:hover{
+  cursor: pointer;
+  color: rgb(172, 0, 0);
+}
+
+.manageAPI:hover{
+  cursor: pointer;
+  color: rgb(0, 110, 154);
+}
+
+.clipboard:hover{
+  cursor: pointer;
+}

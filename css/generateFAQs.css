@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    background-image: url('https://res.cloudinary.com/sih2022/image/upload/v1659005475/home-1-min_hawroc.png');
+    background-repeat: repeat-y;
+    background-size:100vw 200vh;
+    background-position: center;
+}
+
+.getStarted{
+    position: relative;
+    width: auto;
+    height: auto;
+    z-index: -1;
+}
+
+.description-carousel .item{
+    height: 10vh;
+}
+
+.guide-list{
+    margin: 1rem;
+}

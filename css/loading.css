@@ -1,0 +1,31 @@
+.background {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: rgba(17, 17, 17, 0.75);
+    z-index: -1 !important;
+}
+
+
+.processing {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    stroke: aliceblue;
+    fill: antiquewhite;
+}
+
+.overlay{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(16, 16, 16, 0.72);
+    z-index:-1;
+;
+}
+
+.loaderPosition{
+    top:45% !important;
+    left:50% !important ;
+    transform: translate(-50%,-50%);
+}

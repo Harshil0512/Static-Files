@@ -1,0 +1,17 @@
+.api-link a{
+    text-decoration: none;
+}
+#aboutUs{
+    /* margin-top: 1rem; */
+    /* margin-bottom: 1rem;s */
+}
+.documentation-scrollspy{
+    /* font-family: Colfax,colfax-web,Proxima Nova,Open Sans,Gill Sans MT,Gill Sans,Corbel,Arial,sans-serif; */
+}
+.documentation-scrollspy p{
+    font-size: 1.125rem;
+}
+.generateapihere{
+    background-color: #212529;
+    color: #fff;
+}
